@@ -17,12 +17,11 @@ namespace Metodlar
         {
             Console.WriteLine("Tebrikler! Sepete eklendi : " + urunadi);
 
-
-
         }
         
 
         
+       
       
 
 
